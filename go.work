@@ -1,0 +1,16 @@
+go 1.20
+
+use (
+	./01hello
+	./02variables
+	./03userinput
+	./04conversions
+	./05mytime
+	./06mypointers
+	./07arrays
+	./08slices
+	./09maps
+	./10structs
+	./25channelsDeadlock
+	./21bst
+)
