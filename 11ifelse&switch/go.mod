@@ -1,3 +1,3 @@
-module ifelseswitch
+module github.com/ramyasreetejo/Golang/ifelseswitch
 
 go 1.20
