@@ -23,6 +23,12 @@ func main() {
 		fmt.Printf("%v is %v.\n", ind, val)
 	}
 
+	println(len(languages))
+	val, ok := languages["Go"]
+	if ok {
+		println(val)
+	}
+
 	//Using Maps to Implement Sets
 
 	//Although the Go language doesn’t have the set data structure in-built, we can use the map data structure
